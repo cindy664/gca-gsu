@@ -1,4 +1,124 @@
-{
-"secondaryBrandColor":"#ffb300",
-"primaryBrandColor":"#000000",
-} 
+[
+  {
+    "item": "home",
+    "schoolname": "Georgia Southern University",
+    "abbreviation": "GSU",
+    "genericProgramName": "The Global Career Accelerator",
+    "secondaryBrandColor": null,
+    "primaryBrandColor": null,
+    "buttonColor": null,
+    "buttonTextColor": null,
+    "logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-dynamic-email/gsu.png",
+    "cobranded_logo": "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/bad0d961febe4f229536d370ebbb97ed/logo-school-cobrand-gca-dynamic-email/gsu.png",
+    "partner_id": "0014T00000acU7PQAU",
+    "programName": "Georgia Southern Global Career Accelerator",
+    "termsandConditionsPolicy": "https://www.georgiasouthern.edu/privacy/",
+    "registrationMessage": "Registration is now open.",
+    "credits": "3 GSU credits",
+    "startDate": "May 18",
+    "endDate": "July 26"
+  },
+  {
+    "item": "about",
+    "schoolname": "Georgia Southern University",
+    "genericProgramName": "The Global Career Accelerator",
+    "schoolFullAddress": "1332 Southern Dr\r\nStatesboro, GA 30458",
+    "abbreviation": "GSU",
+    "phone": "(912) 875-2692",
+    "credits": "3 GSU credits",
+    "programFee": null,
+    "seasonYear": "Summer 2026",
+    "term": "Summer",
+    "season": "Summer",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "explore-tracks",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open."
+  },
+  {
+    "item": "digital-marketing",
+    "schoolname": "Georgia Southern University",
+    "trackTitle": "Digital Marketing Track",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 26",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
+  },
+  {
+    "item": "coding-for-web",
+    "schoolname": "Georgia Southern University",
+    "trackTitle": "Web Development for Everyone Track",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 26",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
+  },
+  {
+    "item": "data-analytics",
+    "schoolname": "Georgia Southern University",
+    "trackTitle": "Data Analytics Track",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 26",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
+  },
+  {
+    "item": "coding-for-data",
+    "schoolname": "Georgia Southern University",
+    "trackTitle": "Coding for Data Track",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 26",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
+  },
+  {
+    "item": "career-rotation",
+    "schoolname": "Georgia Southern University",
+    "trackTitle": "Career Rotation Track",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "registrationMessage": "Registration is now open.",
+    "seasonYear1": "Summer 2026",
+    "seasonYear2": "Fall 2026",
+    "term1StartDate": "May 18",
+    "term1EndDate": "July 26",
+    "term2StartDate": "August 25",
+    "term2EndDate": "November 29"
+  },
+  {
+    "item": "reserve-a-seat",
+    "programName": "Georgia Southern Global Career Accelerator",
+    "registrationMessage": "Registration is now open.",
+    "phone": "(912) 875-2692",
+    "abbreviation": "Georgia Southern"
+  },
+  {
+    "item": "begin",
+    "credits": "3 GSU credits",
+    "abbreviation": "GSU",
+    "phone": "(912) 875-2692"
+  }
+]
